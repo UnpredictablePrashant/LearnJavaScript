@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Virat",
+        "type": "batsman",
+        "handed": "right"
+    },
+    {
+        "name": "Jadeja",
+        "type": "allrounder",
+        "handed": "left"
+    },
+    {
+        "name": "KL Rahul",
+        "type": "batsman",
+        "handed": "right"
+    },
+    {
+        "name": "Rohit",
+        "type": "batsman",
+        "handed": "right"
+    },
+    {
+        "name": "Rishabh Pant",
+        "type": "batsman",
+        "handed": "left"
+    },
+    {
+        "name": "Shami",
+        "type": "bowler",
+        "handed": "right"
+    }
+]
